@@ -5,6 +5,7 @@ include: "/views/dimensions/dim_users.view.lkml"
 include: "/views/facts/fct_order_items.view.lkml"
 include: "/views/facts/fct_orders.view.lkml"
 
+
 label: "Demo - Ecommerce"
 
 explore: order_items {
